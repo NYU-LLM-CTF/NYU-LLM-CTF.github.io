@@ -1,40 +1,58 @@
 {
   "submissions": [
     {
-      "name": "Delusional League Players",
-      "date": "2024/09/09",
-      "event": "LLMCTF'25",
-      "solved": 0
-    },
-    {
       "name": "Hallucinated Flag",
-      "date": "2024/09/09",
-      "event": "LLMCTF'25",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
       "solved": 0
     },
     {
       "name": "Le Gs",
-      "date": "2024/09/09",
-      "event": "LLMCTF'25",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
       "solved": 0
     },
     {
       "name": "ODU",
-      "date": "2024/09/09",
-      "event": "LLMCTF'25",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
       "solved": 0
     },
     {
       "name": "Prince of Persia",
-      "date": "2024/09/09",
-      "event": "LLMCTF'25",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
       "solved": 0
     },
     {
       "name": "VibeExploiters",
-      "date": "2024/09/09",
-      "event": "LLMCTF'25",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
       "solved": 0
+    },
+    {
+      "name": "3 idiots",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
+      "solved": 0
+    },
+    {
+      "name": "AYCE HotPot",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
+      "solved": 0
+    },
+    {
+      "name": "Delusional League Players",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
+      "solved": 24
+    },
+    {
+      "name": "CyberAgent",
+      "date": "2025/10/11",
+      "event": "AgenticCTF'25",
+      "solved": 41
     }
   ]
 }
