@@ -1,8 +1,8 @@
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 31, 2025 00:00:01").getTime();
+//var countDownDate = new Date("Oct 31, 2025 00:00:01").getTime();
 
 // TODO -- change when comp starts
-//var countDownDate = new Date("Nov 8, 2024 08:00:00").getTime();
+var countDownDate = new Date("Nov 7, 2024 08:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
