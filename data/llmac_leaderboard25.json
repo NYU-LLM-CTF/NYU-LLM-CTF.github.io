@@ -1,9 +1,79 @@
 {
   "submissions": [
     {
-      "name": "Example Team",
+      "name": "TeamX",
       "region": "US-Canada",
-      "date": "2025/09/10",
+      "date": "2025/11/05",
+      "event": "CSAW'25 LLMAC",
+      "points": 1000,
+      "scoring": {
+        "solved": 2,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "rm -rf",
+      "region": "US-Canada",
+      "date": "2025/11/05",
+      "event": "CSAW'25 LLMAC",
+      "points": 500,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "Null Node",
+      "region": "MENA",
+      "date": "2025/11/05",
+      "event": "CSAW'25 LLMAC",
+      "points": 500,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "ghatCPT",
+      "region": "India",
+      "date": "2025/11/05",
+      "event": "CSAW'25 LLMAC",
+      "points": 500,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "Ctrl + Pwn",
+      "region": "US-Canada",
+      "date": "2025/11/05",
+      "event": "CSAW'25 LLMAC",
+      "points": 0,
+      "scoring": {
+        "solved": 0,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "Cyberminds",
+      "region": "US-Canada",
+      "date": "2025/11/05",
       "event": "CSAW'25 LLMAC",
       "points": 0,
       "scoring": {

@@ -43,7 +43,7 @@ function updateLeaderboardTable(data) {
     data.submissions.forEach((item, index) => {
         const row = document.createElement('tr');
 
-        const num_solved = (item.scoring.solved / 500).toFixed(0);
+        const num_solved = (item.scoring.solved).toFixed(0);
         row.innerHTML = `
             <td>${index + 1}</td>
             <td>${item.name} <i>${item.region}</i></td>
