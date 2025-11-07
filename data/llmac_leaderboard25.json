@@ -3,11 +3,11 @@
     {
       "name": "TeamX",
       "region": "US-Canada",
-      "date": "2025/11/05",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 2000,
+      "points": 400,
       "scoring": {
-        "solved": 4,
+        "solved": 8,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -17,11 +17,11 @@
     {
       "name": "rm -rf",
       "region": "US-Canada",
-      "date": "2025/11/05",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 1000,
+      "points": 300,
       "scoring": {
-        "solved": 2,
+        "solved": 6,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -33,7 +33,7 @@
       "region": "MENA",
       "date": "2025/11/05",
       "event": "CSAW'25 LLMAC",
-      "points": 1000,
+      "points": 100,
       "scoring": {
         "solved": 2,
         "bonus": 0,
@@ -45,11 +45,11 @@
     {
       "name": "Hack The Future",
       "region": "US-Canada",
-      "date": "2025/11/06",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 2000,
+      "points": 250,
       "scoring": {
-        "solved": 4,
+        "solved": 5,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -59,11 +59,11 @@
     {
       "name": "HawkOps",
       "region": "MENA",
-      "date": "2025/11/06",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 1000,
+      "points": 250,
       "scoring": {
-        "solved": 2,
+        "solved": 5,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -73,11 +73,11 @@
     {
       "name": "Jemapple",
       "region": "MENA",
-      "date": "2025/11/06",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 0,
+      "points": 300,
       "scoring": {
-        "solved": 0,
+        "solved": 6,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -87,11 +87,11 @@
     {
       "name": "ghatCPT",
       "region": "India",
-      "date": "2025/11/06",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 1500,
+      "points": 250,
       "scoring": {
-        "solved": 3,
+        "solved": 5,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -101,11 +101,11 @@
     {
       "name": "Ctrl + Pwn",
       "region": "US-Canada",
-      "date": "2025/11/05",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 0,
+      "points": 50,
       "scoring": {
-        "solved": 0,
+        "solved": 1,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -115,11 +115,151 @@
     {
       "name": "Cyberminds",
       "region": "US-Canada",
-      "date": "2025/11/05",
+      "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 0,
+      "points": 150,
       "scoring": {
-        "solved": 0,
+        "solved": 3,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "burner accounts",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 50,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "capture the what?",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 50,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "FlagGPT",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 100,
+      "scoring": {
+        "solved": 2,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "MAD",
+      "region": "MENA",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 250,
+      "scoring": {
+        "solved": 5,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "ModelHeist",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 50,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "Overfit and Furious",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 100,
+      "scoring": {
+        "solved": 2,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "Random Team",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 50,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "Trojans",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 50,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "VibeCoders",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 50,
+      "scoring": {
+        "solved": 1,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "AYCE HotPot",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 450,
+      "scoring": {
+        "solved": 9,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
