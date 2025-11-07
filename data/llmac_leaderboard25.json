@@ -75,9 +75,9 @@
       "region": "MENA",
       "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 300,
+      "points": 0,
       "scoring": {
-        "solved": 6,
+        "solved": 0,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
