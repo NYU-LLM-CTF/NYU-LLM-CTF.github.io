@@ -89,9 +89,9 @@
       "region": "India",
       "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 250,
+      "points": 300,
       "scoring": {
-        "solved": 5,
+        "solved": 6,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
@@ -260,6 +260,20 @@
       "points": 450,
       "scoring": {
         "solved": 9,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "LLMBreak",
+      "region": "US-Canada",
+      "date": "2025/11/07",
+      "event": "CSAW'25 LLMAC",
+      "points": 100,
+      "scoring": {
+        "solved": 2,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
