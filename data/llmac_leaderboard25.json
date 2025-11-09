@@ -89,9 +89,37 @@
       "region": "India",
       "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 300,
+      "points": 450,
       "scoring": {
-        "solved": 6,
+        "solved": 9,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "KattangalSec",
+      "region": "India",
+      "date": "2025/11/09",
+      "event": "CSAW'25 LLMAC",
+      "points": 400,
+      "scoring": {
+        "solved": 8,
+        "bonus": 0,
+        "penalty": 0,
+        "creativity": 0,
+        "presentation": 0
+      }
+    },
+    {
+      "name": "ishlav",
+      "region": "India",
+      "date": "2025/11/09",
+      "event": "CSAW'25 LLMAC",
+      "points": 200,
+      "scoring": {
+        "solved": 4,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
