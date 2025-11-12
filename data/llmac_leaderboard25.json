@@ -145,9 +145,9 @@
       "region": "US-Canada",
       "date": "2025/11/07",
       "event": "CSAW'25 LLMAC",
-      "points": 150,
+      "points": 1,
       "scoring": {
-        "solved": 3,
+        "solved": 1,
         "bonus": 0,
         "penalty": 0,
         "creativity": 0,
